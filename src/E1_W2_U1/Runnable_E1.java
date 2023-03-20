@@ -4,7 +4,7 @@ import java.lang.Math;
 import java.util.Scanner;
 
 public class Runnable_E1 {
-     private static final Scanner userInput = new Scanner(System.in);
+    private static final Scanner userInput = new Scanner(System.in);
     private static final int[] integerArray = new int[5];
     public static void main(String[] args) throws Exception {
         System.out.println("This is the starting array:");
